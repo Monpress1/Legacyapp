@@ -1,0 +1,17 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "app-background",
+      "description": "Deep Digital Void Background",
+      "imageUrl": "https://picsum.photos/seed/legacy-ai-bg/1920/1080",
+      "imageHint": "digital purple space"
+    },
+    {
+      "id": "app-logo",
+      "description": "Legacy AI Core Logo",
+      "imageUrl": "https://picsum.photos/seed/legacy-logo-core/512/512",
+      "imageHint": "futuristic purple tech logo"
+    }
+  ]
+}
